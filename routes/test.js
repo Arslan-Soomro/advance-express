@@ -9,4 +9,4 @@ router.get('/main', (req, res) => {
     res.json({message: "TEST main route of advance express of vercel"});
 });
 
-module.exports = router;
+//module.exports = router;
